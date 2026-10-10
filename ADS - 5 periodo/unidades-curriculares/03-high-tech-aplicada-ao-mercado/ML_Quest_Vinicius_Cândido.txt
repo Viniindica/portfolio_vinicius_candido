@@ -1,0 +1,33 @@
+RESULTADO — ML QUEST: Aprendizagem de Máquina (Supervisionada × Não Supervisionada)
+
+Aluno: Vinicius Cândido
+Turma: Turma 39.0  ADS
+Periodo: 5º período
+E-mail do aluno: vinicius.nader@edu.pe.senac.br
+
+----- DESEMPENHO POR FASE -----
+Fase 2 — Detector de Abordagem: 21/15
+Fase 3 — Caca as Anomalias: 4/4
+Fase 4 — Memoria dos Algoritmos: pares encontrados (ver pontuacao)
+Fase 5 — Segmentador de Clientes: 30/40
+Fase 6 — Avaliacao Final: 12/12
+Fase 7 — Desafio Final: 3/8
+
+PONTUACAO TOTAL: 505/590 (86%)
+Nivel: OURO
+
+----- GABARITO -----
+1. ACERTOU — Um modelo recebe fotos rotuladas “gato” / “não gato” e aprende a classificar novas fotos. Isso é…
+2. ACERTOU — Na Fase 5, o K-means posicionou os centróides e repetiu o processo até estabilizar. O que isso significa?
+3. ACERTOU — Na Fase 3 (Caça às Anomalias), você encontrou transações suspeitas SEM exemplos rotulados de “fraude”. Que técnica isso representa?
+4. ACERTOU — Em um dataset de treinamento supervisionado, o que é o “rótulo” (label)?
+5. ACERTOU — Qual problema é típico de aprendizagem NÃO SUPERVISIONADA?
+6. ACERTOU — Qual a diferença entre regressão e classificação?
+7. ACERTOU — Qual desses algoritmos é tipicamente NÃO supervisionado?
+8. ACERTOU — O filtro de spam do seu e-mail é um exemplo clássico de…
+9. ACERTOU — Para que serve o método do cotovelo (elbow method)?
+10. ACERTOU — “Regressão Linear → prever valores numéricos” é um par correto porque…
+11. ACERTOU — Qual tarefa NÃO precisa de rótulos?
+12. ACERTOU — O que caracteriza a aprendizagem SUPERVISIONADA?
+
+Jogado em: 25/09/2026, 07:53
